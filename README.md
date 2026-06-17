@@ -69,9 +69,9 @@ A base contempla informações sobre pedidos, clientes, produtos, vendedores, pa
 ```
 tech-challenge-olist/
 ├── data/          # Dataset da Olist (baixar do Kaggle)
-├── docs/          # Relatório e documentação do projeto
 ├── images/        # Gráficos e visualizações gerados
 ├── notebooks/     # Notebooks de análise (.ipynb)
+├── videos/        # Vídeos de apresentação do projeto
 └── README.md
 ```
 
