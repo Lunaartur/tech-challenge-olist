@@ -2,6 +2,17 @@
 
 > Tech Challenge – Pós-Graduação em Data Analytics | FIAP
 
+## 🔗 Links do Projeto
+
+| | |
+|---|---|
+| 📄 Documento | [Acessar documento](https://onedrive.live.com/:w:/g/personal/34b22a8213eeadbf/IQAzzL-2kLXaTKEQILiWGN9PAXSSFYWpcsLO1S_N95vEzLE?rtime=TZZ4ysbM3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy8zNGIyMmE4MjEzZWVhZGJmL0lRQXp6TC0ya0xYYVRLRVFJTGlXR045UEFYU1NGWVdwY3NMTzFTX045NXZFekxFP2U9VXBvdDdM) |
+| 📊 Apresentação | [Acessar apresentação](https://onedrive.live.com/:p:/g/personal/34B22A8213EEADBF/IQC9CNHvvBnQQL0jGXBlRMQMAbalxIcDuqua31Y8pDT2YbY?resid=34B22A8213EEADBF!sefd108bd19bc40d0bd2319706544c40c&ithint=file%2Cpptx&e=oVhmIj&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy8zNGIyMmE4MjEzZWVhZGJmL0lRQzlDTkh2dkJuUVFMMGpHWEJsUk1RTUFiYWx4SWNEdXF1YTMxWThwRFQyWWJZP2U9b1ZobUlq) |
+| 🎥 Vídeo | [Assistir no YouTube](https://youtu.be/LPRK2DzATLU?is=TN-2pRzqN--Y27Yq) |
+| 💻 Notebook | [Abrir no Google Colab](https://colab.research.google.com/drive/12g_ve0OeqMAZ5POhPj0VdaiA-p3SGz3S?usp=sharing#scrollTo=NwDn42-uWote) |
+
+---
+
 ## 👥 Integrantes
 
 - Arthur Luna da Silva
@@ -68,8 +79,6 @@ A base contempla informações sobre pedidos, clientes, produtos, vendedores, pa
 
 ```
 tech-challenge-olist/
-├── data/          # Dataset da Olist (baixar do Kaggle)
-├── images/        # Gráficos e visualizações gerados
 ├── notebooks/     # Notebooks de análise (.ipynb)
 ├── videos/        # Vídeos de apresentação do projeto
 └── README.md
