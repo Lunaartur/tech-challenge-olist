@@ -2,6 +2,15 @@
 
 > Tech Challenge – Pós-Graduação em Data Analytics | FIAP
 
+## 👥 Integrantes
+
+- Arthur Luna da Silva
+- Isaque da Silva Lacerda
+- Natália Vartuli Cordeiro Boletig
+- Paulo Emanuel de Souza Coutinho
+
+---
+
 ## 🔗 Links do Projeto
 
 | | |
@@ -10,15 +19,6 @@
 | 📊 Apresentação | [Acessar apresentação](https://onedrive.live.com/:p:/g/personal/34B22A8213EEADBF/IQC9CNHvvBnQQL0jGXBlRMQMAbalxIcDuqua31Y8pDT2YbY?resid=34B22A8213EEADBF!sefd108bd19bc40d0bd2319706544c40c&ithint=file%2Cpptx&e=oVhmIj&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy8zNGIyMmE4MjEzZWVhZGJmL0lRQzlDTkh2dkJuUVFMMGpHWEJsUk1RTUFiYWx4SWNEdXF1YTMxWThwRFQyWWJZP2U9b1ZobUlq) |
 | 🎥 Vídeo | [Assistir no YouTube](https://youtu.be/LPRK2DzATLU?is=TN-2pRzqN--Y27Yq) |
 | 💻 Notebook | [Abrir no Google Colab](https://colab.research.google.com/drive/12g_ve0OeqMAZ5POhPj0VdaiA-p3SGz3S?usp=sharing#scrollTo=NwDn42-uWote) |
-
----
-
-## 👥 Integrantes
-
-- Arthur Luna da Silva
-- Isaque da Silva Lacerda
-- Natália Vartuli Cordeiro Boletig
-- Paulo Emanuel de Souza Coutinho
 
 ---
 
